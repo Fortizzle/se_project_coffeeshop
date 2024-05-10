@@ -13,4 +13,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+To improve the navigation on the site, I would suggest adding a floating nav bar to make page navigation easier on any page.
+
+Adding functioning social links would also be smart.
